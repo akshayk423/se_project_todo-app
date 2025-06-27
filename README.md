@@ -1,17 +1,19 @@
-# Simple Todo App
+# 📝 Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+Refactored a basic Todo App template from TripleTen to follow Object-Oriented Programming (OOP) principles by creating modular JavaScript classes for Todo items and form validation, improving code structure and reusability.
 
-## Functionality
+## 🛠 Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- Users can create new todo's
+- Users can check off todo's as they complete them
+- Users can delete todo's they no longer need
 
-## Technology
+## 💻 Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML
+- CSS
+- Javascript
 
-## Deployment
+## 🌐 Deployment
 
-This project is deployed on GitHub Pages:
-
-- ADD LINK HERE
+[Click here](https://akshayk423.github.io/se_project_todo-app/)
